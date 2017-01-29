@@ -1,3 +1,6 @@
 body,#about,#contact{
  padding-top: 5em;
 }
+#contacts{
+	background-image:url("contact.jpg");
+}
